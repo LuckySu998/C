@@ -1,0 +1,41 @@
+/*导航样式开始*/
+*{padding:0;margin:0;}
+div,dl,dt,dd,form,h1,h2,h3,h4,h5,h6,img,ol,ul,li,table,th,td,p,span,a{border:0;}
+img,input{border:none;vertical-align:middle;}
+body{font-family:Tahoma,Arial,Helvetica,"宋体";font-size:12px;text-align:center;background:#FFF;color:#000;}
+html{overflow-y:scroll;}
+ul,ol{list-style-type:none;}
+
+.nav{width:100％;height:75px; }
+.menu{width:1200px; height:100px;margin:0 auto; }
+.menu ul li{list-style:none;height:80px;line-height:50px;font-size:24px;font-family:Lucida Sans Unicode;color:#212120;float:left;text-align: left;}
+.menu_li{padding-left:26.5px;padding-right:26.5px;height:50px;display:block;color:#212120;text-decoration:none;}
+.menu_ul_li:hover{background:#e0becf;}
+.menu_li:hover{background:#e0becf;}
+.menu_checked{background:#e0becf;}
+.dakuang{width: 1224px;height: 908px;margin: 0 auto;}
+.chanpin{width: 320px;height: 520px; margin-left:12px; margin-top: 73px;font-size: 18px;font-family:Lucida Sans Unicode;float: left;margin-left: 12px;margin-right: 122px;line-height: 75px;}
+.lianjie{text-decoration:none;color:#3b3b37;}
+.chanpin1{width: 320px;height: 520px;  margin-top: 73px;font-size: 18px;font-family:Lucida Sans Unicode;float:left;margin-right: 122px;line-height: 75px;}
+.chanpin2{width: 320px;height: 520px;  margin-top: 73px;font-size: 18px;font-family:Lucida Sans Unicode;float:left;line-height: 75px;}
+.dakuang1{width: 1224px;height: 451px;margin: 0 auto;}
+.datu{width: 598px;height: 359px;margin-left: 12px;float: left;font-size: 18px;font-family:Lucida Sans Unicode;line-height: 75px;}
+.datu1{width: 598px;height: 359px;margin-left: 12px;float: left;font-size: 18px;font-family:Lucida Sans Unicode;line-height: 75px;}
+.dakuang2{width: 1224px;height: 171px;margin: 0 auto;font-size: 72px;font-family:Lucida Sans Unicode;line-height: 280px;color:#032e43;}
+.dakuang3{width: 1224px;height: 190px;margin: 0 auto;}
+.ziti{font-size: 18px;font-family:Lucida Sans Unicode;color:#032e43;margin-left: 35px;text-align: left;letter-spacing: 3px;line-height: 32px; margin-top: 73px;}
+.dibu{width: 100％;height: 585px;background: #fee5ee url("tubiao.gif") no-repeat 1150px 300px;margin: 0 auto;}
+.jianju2{font-family:Microsoft Tai Le; font-size: 25px; float: left;padding-left: 60px;font-weight: bold;}
+.jianju{font-family:Microsoft Tai Le; font-size: 25px; float: left;padding-left:60px;font-weight: bold;}
+.jianju1{font-family:Microsoft Tai Le; font-size: 25px; float: left;padding-left: 470px;font-weight: bold;}
+.lianxi{font-family:Microsoft Tai Le; font-size: 18px;float: left;padding-left: 510px;line-height: 70px;text-decoration: none;}
+.lianxizi{text-decoration: none;color: #3b3b37;}
+.lianxi1{font-family:Microsoft Tai Le; font-size: 18px;float: left;padding-left: 115px;line-height: 70px;text-decoration: none;}
+.lianxi2{font-family:Microsoft Tai Le; font-size: 18px;float: left;padding-left: 75px;line-height: 70px;text-decoration: none;}
+.lianxi3{font-family:Microsoft Tai Le; font-size: 18px;float: left;padding-left: 50px;line-height: 70px;text-decoration: none;}
+#uu{width: 280px;height: 52px; float: left;margin-left: 30px;  color: #7a7979; }                                                                                                                                                                                                                                                   }
+#qq{width: 220px;height: 90px;padding-left: 50px;margin-left: 20px; }
+.tyty{height: 143px;width: 280px;float: left;padding-right: 310px;padding-top: }
+
+/*导航样式结束*/
+   
